@@ -9,3 +9,9 @@ main {
   min-height: 100vh;
   padding: 0 30px;
 }
+
+main > .title {
+  font-family: 'Reem Kufi' sans-serif;
+  font-size: 3.75rem;
+  font-weight: 500;
+}
