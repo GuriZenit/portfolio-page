@@ -21,3 +21,8 @@ main > .subTitle {
   margin: 1rem 0;
   font-weight: 100;
 }
+
+main > .icons i {
+  font-size: 3em;
+  padding: 10px;
+}
