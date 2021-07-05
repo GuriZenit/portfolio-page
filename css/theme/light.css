@@ -1,11 +1,11 @@
 main {
-  background: #FF0040;
-  color: #101010;
+  background: crimson;
+  color: floralwhite;
 }
 
 .icons a {
-  color: #101010;
+  color: floralwhite;
 }
 .icons a svg path {
-  fill: #101010;
+  fill: floralwhite;
 }
