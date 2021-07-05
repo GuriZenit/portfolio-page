@@ -2,4 +2,4 @@
 A simple portifolio page for a humble developer!
 ` building..... `
 ## License
-[MIT](https://www.github.com/GuriZenit/portfolio-page/tree/main/LICENSE)
+[MIT](https://github.com/GuriZenit/portfolio-page/blame/main/LICENSE)
