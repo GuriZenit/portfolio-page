@@ -2,3 +2,10 @@ main {
   background: #FAFAFA;
   color: #101010;
 }
+
+.icons a {
+  color: #101010;
+}
+.icons a svg path {
+  fill: #101010;
+}
